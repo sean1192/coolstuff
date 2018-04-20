@@ -3,6 +3,7 @@
 An assemblage of posts featuring topics such as:
 
 photography, 
+drones,  
 design, 
 videography, 
 remote sensing, 
