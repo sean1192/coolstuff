@@ -1,6 +1,6 @@
 # The CoolStuff Blog
 
-An assemblage of posts featuring topics, such as:
+An assemblage of posts featuring topics such as:
 
 photography, 
 design, 
