@@ -10,3 +10,11 @@ beer,
 wine, 
 geomatics, 
 programming
+
+
+# Tags for posts  
+[TUTORIAL]    
+[REVIEW]  
+[TRAVEL]  
+[RECIPE]  
+[PROJECT]
